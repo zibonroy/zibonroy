@@ -1,174 +1,121 @@
+<!-- ======================= HEADER ======================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=ZIBON%20ROY&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
-
-# 👋 Hi, I'm **ZIBON ROY**
-
-### 💻 Full-Stack Developer
-
-**Laravel • React.js • JavaScript • PHP • Mysql**
-
-I build modern, responsive and user-focused web applications in frontend and backend are both side .
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&text=ZIBON%20ROY&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Laravel%20%7C%20React.js%20%7C%20JavaScript&descAlignY=60&descSize=18" width="100%"/>
 
 <br/>
 
 <a href="https://zibon-dev-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-6C2BD9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-7C3AED?style=for-the-badge"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/zibon-chandro-roy/">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/zibonroy">
-<img src="https://img.shields.io/badge/🐙%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-zibonroy-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** focused on building practical and modern web applications.
+Hi! I'm **ZIBON ROY**, a passionate **Full-Stack Developer** focused on building modern, responsive and user-friendly web applications.
 
-* 💻 Working with **Laravel & React.js**
-* ⚛️ Building responsive interfaces with **React.js & Tailwind CSS**
-* 🔥 Developing backend applications with **Laravel & PHP**
-* 🗄️ Working with **MySQL databases**
-* 🔗 Connecting frontend and backend using **Inertia.js**
-* 🧠 Improving problem-solving and clean coding skills
+* 🔭 Currently building projects with **Laravel & React.js**
+* 💡 Interested in clean UI, scalable applications and practical solutions
+* 🛠️ Love turning ideas into real-world web applications
 
 ---
 
-# 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
 ### 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,scss" />
+
+<br/><br/>
 
 ### ⚙️ Backend & Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql&perline=5" />
-</p>
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql" />
 
-### 🔧 Tools
+<br/><br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=5" />
-</p>
+### 🔧 Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 
 </div>
 
 ---
 
-# 🔄 Skills I Work With
+## 🔄 Technologies 
 
 <div align="center">
 
-<marquee behavior="scroll" direction="left" scrollamount="6">
-
-<img src="https://skillicons.dev/icons?i=react,js,tailwind,laravel,php,mysql,git,github,html,css" />
-
-</marquee>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**React.js** • **JavaScript** • **Laravel** • **PHP** • **Inertia.js** • **MySQL** • **Git** • **GitHub** • **Postman**
+<img src="https://skillicons.dev/icons?i=laravel,react,js,php,mysql,scss,tailwind,git,github,postman,vscode" />
 
 </div>
 
 ---
 
-# Featured Projects
+## 💻 Development Focus
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+### ⚡ Clean Code
 
-### 🛒 ShopSphere
+### 🎨 Modern UI/UX
 
-**Mini E-Commerce System**
+### 📱 Responsive Design
 
-A modern e-commerce application built with:
+### 🔐 Authentication
 
-`Laravel` `React.js` `Inertia.js`
-`Tailwind CSS` `MySQL`
+### 🗄️ Database Management
 
-</td>
+### 🔗 API Integration
 
-<td width="50%">
-
-### 🧠 Smart Quiz
-
-**Quiz Management System**
-
-A PHP & MySQL based quiz application featuring:
-
-`PHP` `MySQL` `JavaScript`
-`HTML` `CSS`
-
-</td>
-</tr>
-</table>
+### 🚀 Full-Stack Development
 
 </div>
 
 ---
 
-# 💡 What I Focus On
-
-<div align="center">
-
-| 💻 Development |           🎯 Goal           |
-| :------------: | :-------------------------: |
-|   ⚛️ React.js  |   Build better interfaces   |
-|   🔥 Laravel   |   Build powerful backends   |
-|    🗄️ MySQL   |  Design reliable databases  |
-|  🧩 Full-Stack | Build complete applications |
-|  🧹 Clean Code |   Write maintainable code   |
-
-</div>
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://zibon-dev-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-6C2BD9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/zibon-chandro-roy/">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/zibonroy">
-<img src="https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br/>
+
+<!-- ======================= FOOTER ======================= -->
 
 <div align="center">
 
-### 💻 Build • Learn • Improve • Repeat
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-<br/>
+### ✨ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+**Let's build something amazing together 🚀**
 
 </div>
